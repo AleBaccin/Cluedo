@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cluedo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cluedo_jar</output-path>
+    <root id="archive" name="Cluedo.jar">
+      <element id="module-output" name="Cluedo" />
+    </root>
+  </artifact>
+</component>
